@@ -9,10 +9,10 @@ were in Bobbia city and led by Flavius Aetius tried to go back to capital city R
 Ravenna city was located at coastal areas and was passed by many rivers, and the entire grounds had been controlled by Alaric. Help
 Aetius to find the most optimal(shortest) river route to arrive to Ravenna city by using A* algorithm.
 
-Purpose\n
+Purpose
 The purpose of this application is to find the shortest rute from Bobbia to Ravenna by using A* algorithm.
 
-Data Storage\n
+Data Storage
 Data is inputted using hardcode, but can be changed by users while running the program.
 
 
